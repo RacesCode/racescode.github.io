@@ -1,7 +1,6 @@
 # Bundler cache
 .bundle
 vendor
-# Gemfile.lock
 
 # Jekyll cache
 .jekyll-cache
@@ -20,3 +19,6 @@ package-lock.json
 
 # Misc
 assets/js/dist
+
+# Mark's Additions
+*!ignore.md
