@@ -22,3 +22,6 @@ assets/js/dist
 
 # Mark's Additions
 *!ignore.md
+_posts/*.py
+_posts/*.txt
+_posts/*.json
