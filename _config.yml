@@ -26,10 +26,10 @@ description: >- # used by seo meta and the atom feed
   A vault containing lore entries
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://marktullius.github.io"
+url: "https://racescode.github.io"
 
 github:
-  username: marktullius # change to your github username
+  username: racescode # change to your github username
 
 twitter:
   username: # change to your twitter username
