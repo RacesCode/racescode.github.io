@@ -197,3 +197,6 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+rebuild_trigger: "2025-03-29-force"
+
